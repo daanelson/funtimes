@@ -1,1 +1,2 @@
 print 'hooray!'
+print 'wahoo!'
