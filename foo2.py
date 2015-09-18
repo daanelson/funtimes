@@ -1,3 +1,3 @@
 import numpy as np
 
-print numpy.random([30])
+print np.random.rand(30)
